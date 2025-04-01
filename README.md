@@ -1,1 +1,0 @@
-# Ruby-testing-react
